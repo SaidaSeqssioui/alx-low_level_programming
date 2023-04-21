@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print the alphabet in reverse order in lowercase, followed by a new line
+ * Description: Print the alphabet in reverse order in lowercase
+ * followed by a new line
  * only use the putchar function
  * only use putchar twice in your code
  * Return: 0
