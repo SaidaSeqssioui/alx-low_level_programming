@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * main - main block
- * Description: Print all possible combinations fo single-digit numbers, followed by a new line.
+ * Description: Print all possible combinations fo single-digit numbers
+ * followed by a new line.
  * Numbers must be separated by commas and a space.
  * only use `putchar` to print to console
  * only use `putchar` up to four times.
