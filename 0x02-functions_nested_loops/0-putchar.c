@@ -1,11 +1,21 @@
-#include <stdio.h>
+#include "main.h"
 /**
- *print putchar
- *Followed by a new line
- */
+* main - print _putchar
+* is written by saida
+* Return: 0
+*/
+
 
 int main(void)
 {
-putchar('\n');
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
 return (0);
 }
