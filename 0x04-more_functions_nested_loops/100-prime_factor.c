@@ -2,10 +2,10 @@
 #include <stdio.h>
 
 /**
- * main - prints largest prime factor
- * Return: Always 0
- * allowed to use standard library
- * /
+ *main - prints largest prime factor
+ *Return: Always 0
+ *allowed to use standard library
+ */
 
 int main(void)
 {
