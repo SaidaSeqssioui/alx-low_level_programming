@@ -36,7 +36,12 @@ char *str_concat(char *s1, char *s2)
 	while (*s2)
 		*ptr++ = *s2++;
 	*ptr = 0;
+<<<<<<< HEAD
 
 	return (ret);
 }
+=======
+>>>>>>> 3e0ba6c29a7181e5dc8636d1b98d6358e6786d0a
 
+	return (ret);
+}
